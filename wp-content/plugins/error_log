@@ -1,0 +1,2 @@
+[28-Aug-2020 08:30:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home2/woorerg2/public_html/skintervention.com.ng/wp-content/plugins/hello.php on line 69
+[01-Sep-2020 04:59:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home2/woorerg2/public_html/skintervention.com.ng/wp-content/plugins/hello.php on line 69

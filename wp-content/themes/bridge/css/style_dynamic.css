@@ -1,0 +1,456 @@
+
+				
+		
+		
+					.ajax_loader .pulse,
+			.ajax_loader .double_pulse .double-bounce1, .ajax_loader .double_pulse .double-bounce2,
+			.ajax_loader .cube,
+			.ajax_loader .rotating_cubes .cube1, .ajax_loader .rotating_cubes .cube2,
+			.ajax_loader .stripes > div,
+			.ajax_loader .wave > div,
+			.ajax_loader .two_rotating_circles .dot1, .ajax_loader .two_rotating_circles .dot2,
+			.ajax_loader .five_rotating_circles .container1 > div, .ajax_loader .five_rotating_circles .container2 > div, .ajax_loader .five_rotating_circles .container3 > div{
+			background-color: #ffcc00;
+			}
+								
+					body{
+											font-family: 'Georgia', sans-serif;
+						 color: #ffffff; 			 font-size: 16px; 						}
+											
+					.transparent_content,
+			.transparent_content.overlapping_content .content .content_inner > .container,
+			.transparent_content.overlapping_content .content .content_inner > .full_width > .full_width_inner{
+							background-color: #161616;
+			
+			
+			
+			}
+
+		
+		
+					.header_bottom,
+			.header_top,
+			.fixed_top_header .bottom_header{
+			background-color: rgba(22,22,22,1);
+			}
+
+			
+		
+																			header.fixed.scrolled .header_bottom,
+			header.fixed.scrolled .header_top,
+			header.fixed_hiding.scrolled .header_bottom,
+			header.fixed_hiding.scrolled .header_top {
+			background-color: rgba(22,22,22,1) !important;
+			}
+		
+		
+
+
+		
+						
+		
+		
+		
+
+					.content{
+			margin-top: 0;
+			}
+		
+							.content.content_top_margin{
+			margin-top: 230px !important;
+			}
+						
+		
+		
+		
+						header.fixed_hiding .q_logo a,
+				header.fixed_hiding .q_logo{
+				max-height: 157px;
+				}
+				
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+																		
+
+						
+		
+		
+		
+		
+		
+				
+						
+		
+		
+		
+					h1,
+			.h1,
+			.title h1 {
+				color: #ffffff; 							font-family: 'Times New Roman', sans-serif;
+						font-size: 55px; 									font-weight: 500; 									}
+				
+		
+																
+
+					p{
+			color: #ffffff;						font-size: 16px;																		}
+			.filter_holder ul li span,
+			blockquote h5,
+			.q_social_icon_holder .simple_social,
+			.header-widget.widget_nav_menu ul.menu li a,
+			.side_menu a,
+			.side_menu li,
+			.side_menu span,
+			.side_menu p,
+			.side_menu .widget.widget_rss li a.rsswidget,
+			.side_menu #wp-calendar caption,
+			.side_menu #wp-calendar th,
+			.side_menu #wp-calendar td,
+			aside .widget #lang_sel_list li a,
+			aside .widget #lang_sel li a,
+			aside .widget #lang_sel_click li a,
+			.wpb_widgetised_column .widget #lang_sel_list li a,
+			.wpb_widgetised_column .widget #lang_sel li a,
+			.wpb_widgetised_column .widget #lang_sel_click li a,
+			section.side_menu #lang_sel_list li a,
+			section.side_menu #lang_sel li a,
+			section.side_menu #lang_sel_click li a,
+			footer #lang_sel_list li a,
+			footer #lang_sel li a,
+			footer #lang_sel_click li a,
+			footer #lang_sel_list.lang_sel_list_horizontal a,
+			footer #lang_sel_list.lang_sel_list_vertical a,
+			.side_menu #lang_sel_list.lang_sel_list_horizontal a,
+			.side_menu #lang_sel_list.lang_sel_list_vertical a,
+			#lang_sel_footer a{
+			color: #ffffff;			}
+			.header_top #lang_sel > ul > li > a,
+			.header_top #lang_sel_click > ul > li> a,
+			footer #lang_sel ul li a,
+			footer #lang_sel ul ul a,
+			footer #lang_sel_click ul li a,
+			footer #lang_sel_click ul ul a,
+			footer #lang_sel_click ul ul a span,
+			section.side_menu #lang_sel ul li a,
+			section.side_menu #lang_sel ul ul a,
+			section.side_menu #lang_sel ul ul a:visited,
+			section.side_menu #lang_sel_click > ul > li > a,
+			section.side_menu #lang_sel_click ul ul a,
+			section.side_menu #lang_sel_click ul ul a:visited{
+			color: #ffffff !important;			}
+									
+
+		
+				
+				
+		
+		
+
+		
+		
+		
+										
+		
+		
+		
+						.google_map{
+				height: 750px;
+				}
+				
+		
+		
+		
+								
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+					.footer_bottom, .footer_bottom span, .footer_bottom p, .footer_bottom p a, .footer_bottom a, #lang_sel_footer ul li a,
+			footer #lang_sel > ul > li > a,
+			footer #lang_sel_click > ul > li > a,
+			footer #lang_sel a.lang_sel_sel,
+			footer #lang_sel_click a.lang_sel_sel,
+			footer #lang_sel ul ul a,
+			footer #lang_sel_click ul ul a,
+			footer #lang_sel ul ul a:visited,
+			footer #lang_sel_click ul ul a:visited,
+			footer #lang_sel_list.lang_sel_list_horizontal a,
+			footer #lang_sel_list.lang_sel_list_vertical a,
+			#lang_sel_footer a,
+			.footer_bottom ul li a {
+			color:#ffffff;
+			}
+		
+		
+		
+		
+
+		
+
+		
+		
+
+												
+										
+								
+								
+										
+										
+								
+								
+		
+														
+								
+								
+								
+				
+						
+						
+		/*Blog Masonry Gallery - end */
+
+								
+						
+						
+								
+												
+								
+
+		
+						
+				
+		
+
+		
+				
+
+										
+		
+
+												
+				
+				
+		
+								
+								
+								
+		
+																																																				
+				
+		
+		.vertical_menu_float .menu-item .second{
+		left: calc(100% + 30px); /*because of the padding*/
+		}
+
+		.vertical_menu_hidden aside.vertical_menu_area .vertical_menu_float .menu-item .second {
+		left: calc(100% + 40px);
+		}
+
+
+		
+		
+		
+		
+
+
+							.vertical_menu_area{
+			text-align:left;
+			}
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+																													.portfolio_main_holder .item_holder.thin_plus_only .thin_plus_only_icon {
+			font-family: 			}
+						
+							.cf7_custom_style_1  input.wpcf7-form-control.wpcf7-submit,
+				.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]) {
+				background-color: #ffcc00;				}
+			
+			
+							.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text,
+				.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number,
+				.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date,
+				.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea,
+				.cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select,
+				.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz{
+				color: #ffffff;font-family: Georgia;				}
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+							.cf7_custom_style_1 ::-webkit-input-placeholder{
+				color: #ffffff;opacity:1;				}
+										.cf7_custom_style_1 :-moz-placeholder{
+				color: #ffffff;opacity:1;				}
+										.cf7_custom_style_1 ::-moz-placeholder{
+				color: #ffffff;opacity:1;				}
+										.cf7_custom_style_1 :-ms-input-placeholde{
+				color: #ffffff;opacity:1;				}
+																																																																				
+		
+		
+				
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+
+		
+		
+
+		
+		
+		
+								
+		
+		
+				
+				
+				
+				
+										
+
+		
+		
+																
+
+						
+		
+
+		
+				    .masonry_gallery_item.square_big .masonry_gallery_item_inner .masonry_gallery_item_content{
+			text-align: center;		    }
+		
+		
+				    .masonry_gallery_item.square_small .masonry_gallery_item_inner .masonry_gallery_item_content{
+			text-align: center;		    }
+		
+		
+				    .masonry_gallery_item.rectangle_portrait .masonry_gallery_item_inner .masonry_gallery_item_content{
+			text-align: center;		    }
+		
+		
+				    .masonry_gallery_item.rectangle_landscape .masonry_gallery_item_inner .masonry_gallery_item_content{
+			text-align: center;		    }
+		
+
+	
+						
+		
+		
+
+				
+
+

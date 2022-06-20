@@ -1,0 +1,5 @@
+[21-Sep-2021 04:01:31 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home2/woorerg2/public_html/skintervention.com.ng/wp-includes/functions.php on line 8
+[21-Sep-2021 04:01:31 UTC] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home2/woorerg2/public_html/skintervention.com.ng/wp-includes/functions.php on line 8
+[21-Sep-2021 04:01:31 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/woorerg2/public_html/skintervention.com.ng/wp-includes/functions.php on line 8
+[21-Sep-2021 04:01:31 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/woorerg2/public_html/skintervention.com.ng/wp-includes/functions.php on line 8
+[21-Sep-2021 04:01:31 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/woorerg2/public_html/skintervention.com.ng/wp-includes/functions.php on line 8

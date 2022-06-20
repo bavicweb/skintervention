@@ -1,0 +1,26 @@
+BAD RESPONSE STATUS (404): 
+GITHUB EXPORT: error encountered
+Exception: GitHub API bad response status in C:\xampp\htdocs\skintervention\wp-content\plugins\wp2static-6.6.8\plugin\deployers\GitHub.php:108
+Stack trace:
+#0 C:\xampp\htdocs\skintervention\wp-content\plugins\wp2static-6.6.8\plugin\deployers\GitHub.php(25): WP2Static_GitHub->test_upload()
+#1 C:\xampp\htdocs\skintervention\wp-content\plugins\wp2static-6.6.8\plugin\deployers\GitHub.php(198): WP2Static_GitHub->__construct()
+#2 C:\xampp\htdocs\skintervention\wp-content\plugins\wp2static-6.6.8\plugin\WP2Static\Dispatcher.php(31): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\skintervention\wp-content\plugins\wp2static-6.6.8\wp2static.php(18): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\skintervention\wp-settings.php(360): include_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\skintervention\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\skintervention\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\skintervention\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+BAD RESPONSE STATUS (404): 
+GITHUB EXPORT: error encountered
+Exception: GitHub API bad response status in C:\xampp\htdocs\skintervention\wp-content\plugins\wp2static-6.6.8\plugin\deployers\GitHub.php:108
+Stack trace:
+#0 C:\xampp\htdocs\skintervention\wp-content\plugins\wp2static-6.6.8\plugin\deployers\GitHub.php(25): WP2Static_GitHub->test_upload()
+#1 C:\xampp\htdocs\skintervention\wp-content\plugins\wp2static-6.6.8\plugin\deployers\GitHub.php(198): WP2Static_GitHub->__construct()
+#2 C:\xampp\htdocs\skintervention\wp-content\plugins\wp2static-6.6.8\plugin\WP2Static\Dispatcher.php(31): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\skintervention\wp-content\plugins\wp2static-6.6.8\wp2static.php(18): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\skintervention\wp-settings.php(360): include_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\skintervention\wp-config.php(91): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\skintervention\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\skintervention\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#8 {main}
